@@ -7,11 +7,17 @@ html body {
 }
 
 body {
-  font-family: system-ui, sans-serif;
+  font-family: Times;
   font-size: 75%;
-  background-color: #d3d3d3;
+  background-color: #DBD9DB;
 }
-
+.emphasis {
+  font-family: sans-serif;
+  font-size: 60%;
+  width: 100%;
+  display: block;
+  text-align: center;
+}
 .container {
   margin: 20px auto;
   width: 90%;
